@@ -7,4 +7,4 @@ if b > a and b > c:
     print(b)
 if c > b and c > a:
     print(c)
-print(max(a,b,c))
+print(max(a, b, c))
