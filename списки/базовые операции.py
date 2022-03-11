@@ -12,12 +12,17 @@ print()
 # код начинается отсюда...
 summa, pr = 0, 1
 sumpol = 0
+k=0
 for i in range(n):
     summa += a[i]
     pr *= a[i]
     if a[i] > 0:
         sumpol += a[i]
+        k += 1
 print('Сумма всех элементов равна', summa)
 print(pr)
 sr=summa/n
 print('Сумма положительных элементов равна', sumpol)
+print(k)
+print(a[0])
+print(a[-1])
