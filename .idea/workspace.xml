@@ -45,10 +45,14 @@
     </key>
   </component>
 <<<<<<< HEAD
+  <component name="RunManager" selected="Python.1">
+=======
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.1 задание.Py">
 =======
   <component name="RunManager" selected="Python.Перевернуть строчку">
 >>>>>>> 263c9a39b71fce7a0ed5f75054c5943533772bf6
+>>>>>>> ed6db49d910fb0eb48de705438e85aa91750dc2d
     <configuration name="решение треугольника2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bukharina" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,53 +74,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="линейное уравнение" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="bukharina" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/линейное уравнение.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="квадратное уравнение" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="bukharina" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/квадратное уравнение.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
 <<<<<<< HEAD
-    <configuration name="решение треугольника" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-=======
     <configuration name="базовые операции" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
->>>>>>> 263c9a39b71fce7a0ed5f75054c5943533772bf6
+=======
+    <configuration name="линейное уравнение" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> ed6db49d910fb0eb48de705438e85aa91750dc2d
       <module name="bukharina" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,10 +91,10 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
 <<<<<<< HEAD
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/решение треугольника.py" />
-=======
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/списки/базовые операции.py" />
->>>>>>> 263c9a39b71fce7a0ed5f75054c5943533772bf6
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/линейное уравнение.py" />
+>>>>>>> ed6db49d910fb0eb48de705438e85aa91750dc2d
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,10 +104,10 @@
       <method v="2" />
     </configuration>
 <<<<<<< HEAD
-    <configuration name="Три числа" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-=======
     <configuration name="Перевернуть строчку" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
->>>>>>> 263c9a39b71fce7a0ed5f75054c5943533772bf6
+=======
+    <configuration name="квадратное уравнение" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> ed6db49d910fb0eb48de705438e85aa91750dc2d
       <module name="bukharina" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,7 +119,77 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/строки/Перевернуть строчку.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/квадратное уравнение.py" />
+>>>>>>> ed6db49d910fb0eb48de705438e85aa91750dc2d
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="Три числа" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+<<<<<<< HEAD
+    <configuration name="решение треугольника" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="базовые операции" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> 263c9a39b71fce7a0ed5f75054c5943533772bf6
+>>>>>>> ed6db49d910fb0eb48de705438e85aa91750dc2d
+      <module name="bukharina" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Три числа.py" />
+=======
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/решение треугольника.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/списки/базовые операции.py" />
+>>>>>>> 263c9a39b71fce7a0ed5f75054c5943533772bf6
+>>>>>>> ed6db49d910fb0eb48de705438e85aa91750dc2d
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="линейное уравнение" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+<<<<<<< HEAD
+    <configuration name="Три числа" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="Перевернуть строчку" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> 263c9a39b71fce7a0ed5f75054c5943533772bf6
+>>>>>>> ed6db49d910fb0eb48de705438e85aa91750dc2d
+      <module name="bukharina" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/линейное уравнение.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,9 +289,12 @@
     <recent_temporary>
       <list>
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
         <item itemvalue="Python.1 задание.Py" />
 =======
         <item itemvalue="Python.Перевернуть строчку" />
+>>>>>>> ed6db49d910fb0eb48de705438e85aa91750dc2d
         <item itemvalue="Python.1" />
 >>>>>>> 263c9a39b71fce7a0ed5f75054c5943533772bf6
         <item itemvalue="Python.12.9" />
