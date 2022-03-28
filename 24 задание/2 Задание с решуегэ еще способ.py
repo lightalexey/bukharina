@@ -1,0 +1,1 @@
+print(len(max(open('24_demo (1).txt').readline().replace('Z', ' ').replace('Y', ' ').split())))
