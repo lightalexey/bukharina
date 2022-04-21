@@ -5,7 +5,7 @@ summa = 0
 delta = 10 ** 6
 for i in range(n):
     s = f.readline()
-    # print(s)
+    print(s)
     a1, a2 = s.split()
     # a1 = int(a1)
     # a2 = int(a2)
